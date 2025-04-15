@@ -1,0 +1,1751 @@
+[
+  {
+    "id": 86083839,
+    "referralGUID": "9771803:GUID",
+    "referralDate": "2021-01-06 00:00:00",
+    "Data": [
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 7261443,
+            "birthDate": "1981-08-08",
+            "phoneNumber": "9031146479",
+            "snils": "90659405296",
+            "inn": "794721299066",
+            "socStatus_id": "183",
+            "socStatusFed_Code": "1",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "50486388",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Советская, д. 54",
+              "guid": "329488-GUID"
+            },
+            "Documents": [
+              {
+                "id": "48347147",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "1599",
+                "number": "181955",
+                "beginDate": "2021-12-06",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "sex": "2"
+          },
+          {
+            "id": 9188021,
+            "birthDate": "2001-03-11",
+            "phoneNumber": "9451737571",
+            "snils": "90319503434",
+            "inn": "620155615571",
+            "socStatus_id": "196",
+            "socStatusFed_Code": "5",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "61649741",
+              "value": "РОССИЯ, ГОРОД Москва, ул. Советская, д. 20",
+              "guid": "482842-GUID"
+            },
+            "Documents": [
+              {
+                "id": "75575851",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "2450",
+                "number": "909445",
+                "beginDate": "2021-02-02",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Петр",
+            "lastName": "Сидоров"
+          }
+        ]
+      },
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 2284548,
+            "birthDate": "1977-03-22",
+            "phoneNumber": "9848152764",
+            "snils": "98292507893",
+            "inn": "332396797377",
+            "socStatus_id": "130",
+            "socStatusFed_Code": "9",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "39305466",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Пушкина, д. 65",
+              "guid": "152299-GUID"
+            },
+            "Documents": [
+              {
+                "id": "88981383",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "3880",
+                "number": "232914",
+                "beginDate": "2021-05-18",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Петр",
+            "sex": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34636187,
+    "referralGUID": "3031071:GUID",
+    "referralDate": "2023-05-22 00:00:00",
+    "Data": [
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 5609080,
+            "birthDate": "1996-03-11",
+            "phoneNumber": "9367015758",
+            "snils": "69093549512",
+            "inn": "932789917515",
+            "socStatus_id": "136",
+            "socStatusFed_Code": "3",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "81549499",
+              "value": "РОССИЯ, ГОРОД Москва, ул. Пушкина, д. 28",
+              "guid": "246441-GUID"
+            },
+            "Documents": [
+              {
+                "id": "77511256",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "6576",
+                "number": "355254",
+                "beginDate": "2023-08-11",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "76931000",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "5529",
+                "number": "877306",
+                "beginDate": "2019-11-09",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "firstName": "Иван",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          }
+        ]
+      },
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 9347138,
+            "birthDate": "2009-06-01",
+            "phoneNumber": "9129061612",
+            "snils": "71751555590",
+            "inn": "385031754718",
+            "socStatus_id": "119",
+            "socStatusFed_Code": "10",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "76323730",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Советская, д. 47",
+              "guid": "980033-GUID"
+            },
+            "Documents": [
+              {
+                "id": "76403218",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "1326",
+                "number": "965308",
+                "beginDate": "2018-03-20",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "29572285",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "9684",
+                "number": "464433",
+                "beginDate": "2019-01-10",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "41897759",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "7618",
+                "number": "833167",
+                "beginDate": "2022-08-29",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "firstName": "Сергей",
+            "lastName": "Сидоров"
+          }
+        ]
+      },
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 3308213,
+            "birthDate": "1976-06-18",
+            "phoneNumber": "9203972386",
+            "snils": "63732686430",
+            "inn": "321297458368",
+            "socStatus_id": "112",
+            "socStatusFed_Code": "2",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "80180469",
+              "value": "РОССИЯ, ГОРОД Москва, ул. Пушкина, д. 72",
+              "guid": "890965-GUID"
+            },
+            "Documents": [
+              {
+                "id": "98489370",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "7876",
+                "number": "561280",
+                "beginDate": "2020-12-30",
+                "orgDep_Name": "МВД по РБ"
+              },
+              {
+                "id": "61027645",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "5250",
+                "number": "253067",
+                "beginDate": "2021-08-05",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "patrName": "Петрович",
+            "sex": "1",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          },
+          {
+            "id": 6047165,
+            "birthDate": "1984-01-22",
+            "phoneNumber": "9533045783",
+            "snils": "14544925662",
+            "inn": "125112886336",
+            "socStatus_id": "170",
+            "socStatusFed_Code": "3",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "63855076",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Советская, д. 24",
+              "guid": "747503-GUID"
+            },
+            "Documents": [
+              {
+                "id": "51838734",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "8366",
+                "number": "696794",
+                "beginDate": "2021-10-02",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Петр",
+            "lastName": "Сидоров",
+            "patrName": "Сергеевич",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          },
+          {
+            "id": 3809723,
+            "birthDate": "2009-06-05",
+            "phoneNumber": "9088967621",
+            "snils": "55966430577",
+            "inn": "933652220236",
+            "socStatus_id": "158",
+            "socStatusFed_Code": "3",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "52281227",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Пушкина, д. 2",
+              "guid": "861282-GUID"
+            },
+            "Documents": [
+              {
+                "id": "61063748",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "9777",
+                "number": "223654",
+                "beginDate": "2016-03-21",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "68379451",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "1394",
+                "number": "389558",
+                "beginDate": "2018-02-10",
+                "orgDep_Name": "МВД по РБ"
+              },
+              {
+                "id": "33300986",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "9672",
+                "number": "526270",
+                "beginDate": "2021-05-09",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "patrName": "Петрович",
+            "sex": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33347100,
+    "referralGUID": "3578739:GUID",
+    "referralDate": "2023-12-12 00:00:00",
+    "Data": [
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 6877280,
+            "birthDate": "2007-05-05",
+            "phoneNumber": "9037592038",
+            "snils": "79447704074",
+            "inn": "613920684711",
+            "socStatus_id": "186",
+            "socStatusFed_Code": "5",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "66624637",
+              "value": "РОССИЯ, ГОРОД Москва, ул. Пушкина, д. 33",
+              "guid": "280706-GUID"
+            },
+            "Documents": [
+              {
+                "id": "19684886",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "2887",
+                "number": "619698",
+                "beginDate": "2020-11-22",
+                "orgDep_Name": "МВД по РБ"
+              },
+              {
+                "id": "76665844",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "7154",
+                "number": "297144",
+                "beginDate": "2018-11-27",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "patrName": "Петрович"
+          },
+          {
+            "id": 8668028,
+            "birthDate": "1979-03-03",
+            "phoneNumber": "9941277325",
+            "snils": "84028864673",
+            "inn": "936871557888",
+            "socStatus_id": "108",
+            "socStatusFed_Code": "10",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "72730035",
+              "value": "РОССИЯ, ГОРОД Москва, ул. Советская, д. 21",
+              "guid": "682109-GUID"
+            },
+            "Documents": [
+              {
+                "id": "95587667",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "9947",
+                "number": "755895",
+                "beginDate": "2023-04-25",
+                "orgDep_Name": "МВД по РБ"
+              },
+              {
+                "id": "39938108",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "2384",
+                "number": "833939",
+                "beginDate": "2022-03-14",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "firstName": "Иван",
+            "lastName": "Петров"
+          }
+        ]
+      },
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 4561195,
+            "birthDate": "1977-01-20",
+            "phoneNumber": "9935623885",
+            "snils": "55521278227",
+            "inn": "644893845082",
+            "socStatus_id": "183",
+            "socStatusFed_Code": "3",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "63597241",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Советская, д. 14",
+              "guid": "670639-GUID"
+            },
+            "Documents": [
+              {
+                "id": "86491693",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "4344",
+                "number": "622528",
+                "beginDate": "2019-04-17",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "16723028",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "6448",
+                "number": "396006",
+                "beginDate": "2020-12-31",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "lastName": "Иванов",
+            "patrName": "Иванович",
+            "sex": "2"
+          },
+          {
+            "id": 3937220,
+            "birthDate": "1986-12-11",
+            "phoneNumber": "9399151111",
+            "snils": "38979642098",
+            "inn": "639345445270",
+            "socStatus_id": "187",
+            "socStatusFed_Code": "5",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "60058698",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Советская, д. 62",
+              "guid": "452455-GUID"
+            },
+            "Documents": [
+              {
+                "id": "67127117",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "5381",
+                "number": "235560",
+                "beginDate": "2020-11-16",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Иван",
+            "lastName": "Иванов",
+            "patrName": "Сергеевич"
+          },
+          {
+            "id": 9545407,
+            "birthDate": "1971-03-10",
+            "phoneNumber": "9934456720",
+            "snils": "46195146532",
+            "inn": "268838641149",
+            "socStatus_id": "105",
+            "socStatusFed_Code": "9",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "89632433",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Пушкина, д. 21",
+              "guid": "388743-GUID"
+            },
+            "Documents": [
+              {
+                "id": "38095544",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "8317",
+                "number": "941514",
+                "beginDate": "2020-11-09",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "25492760",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "9013",
+                "number": "640068",
+                "beginDate": "2024-12-31",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "40351489",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "6216",
+                "number": "614641",
+                "beginDate": "2018-03-26",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "firstName": "Петр",
+            "patrName": "Иванович",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          }
+        ]
+      },
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 5137923,
+            "birthDate": "1991-11-24",
+            "phoneNumber": "9115544124",
+            "snils": "34454660365",
+            "inn": "908047706462",
+            "socStatus_id": "104",
+            "socStatusFed_Code": "3",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "50193212",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Советская, д. 13",
+              "guid": "328925-GUID"
+            },
+            "Documents": [
+              {
+                "id": "42606164",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "6812",
+                "number": "636519",
+                "beginDate": "2020-06-27",
+                "orgDep_Name": "МВД по РБ"
+              },
+              {
+                "id": "98268360",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "7046",
+                "number": "974016",
+                "beginDate": "2025-01-15",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Сергей",
+            "sex": "1"
+          },
+          {
+            "id": 9362053,
+            "birthDate": "2007-05-22",
+            "phoneNumber": "9120920917",
+            "snils": "21757746868",
+            "inn": "325641042581",
+            "socStatus_id": "147",
+            "socStatusFed_Code": "1",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "70810628",
+              "value": "РОССИЯ, ГОРОД Москва, ул. Пушкина, д. 5",
+              "guid": "803189-GUID"
+            },
+            "Documents": [
+              {
+                "id": "12037934",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "3425",
+                "number": "999313",
+                "beginDate": "2018-05-12",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "firstName": "Иван"
+          },
+          {
+            "id": 5966318,
+            "birthDate": "2002-07-05",
+            "phoneNumber": "9471046819",
+            "snils": "46429034893",
+            "inn": "626775347903",
+            "socStatus_id": "126",
+            "socStatusFed_Code": "3",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "44482802",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Советская, д. 36",
+              "guid": "536983-GUID"
+            },
+            "Documents": [
+              {
+                "id": "70607029",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "9118",
+                "number": "216757",
+                "beginDate": "2018-05-04",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "lastName": "Сидоров",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          },
+          {
+            "id": 3702553,
+            "birthDate": "1998-01-05",
+            "phoneNumber": "9836595840",
+            "snils": "42568873446",
+            "inn": "384598533472",
+            "socStatus_id": "174",
+            "socStatusFed_Code": "1",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "11412470",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Советская, д. 47",
+              "guid": "108892-GUID"
+            },
+            "Documents": [
+              {
+                "id": "88835398",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "3117",
+                "number": "267944",
+                "beginDate": "2022-08-11",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "firstName": "Сергей",
+            "patrName": "Иванович",
+            "sex": "1",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          },
+          {
+            "id": 6894143,
+            "birthDate": "1999-07-08",
+            "phoneNumber": "9573819835",
+            "snils": "14602734471",
+            "inn": "980851040235",
+            "socStatus_id": "130",
+            "socStatusFed_Code": "9",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "21147796",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Ленина, д. 98",
+              "guid": "810380-GUID"
+            },
+            "Documents": [
+              {
+                "id": "22534318",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "6550",
+                "number": "807248",
+                "beginDate": "2020-09-25",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "firstName": "Иван",
+            "patrName": "Иванович",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26068560,
+    "referralGUID": "4226142:GUID",
+    "referralDate": "2020-02-23 00:00:00",
+    "Data": [
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 4028324,
+            "birthDate": "1997-04-10",
+            "phoneNumber": "9990523209",
+            "snils": "16929987829",
+            "inn": "614915557108",
+            "socStatus_id": "148",
+            "socStatusFed_Code": "3",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "63146698",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Ленина, д. 33",
+              "guid": "123997-GUID"
+            },
+            "Documents": [
+              {
+                "id": "27220823",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "2611",
+                "number": "852219",
+                "beginDate": "2017-07-14",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "47391570",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "4986",
+                "number": "903740",
+                "beginDate": "2021-05-14",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Петр",
+            "lastName": "Сидоров"
+          },
+          {
+            "id": 1315644,
+            "birthDate": "1982-02-08",
+            "phoneNumber": "9740752307",
+            "snils": "54019706220",
+            "inn": "941096744810",
+            "socStatus_id": "151",
+            "socStatusFed_Code": "1",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "46662683",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Ленина, д. 66",
+              "guid": "961015-GUID"
+            },
+            "Documents": [
+              {
+                "id": "81519398",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "7128",
+                "number": "707387",
+                "beginDate": "2016-01-23",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "27836296",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "4372",
+                "number": "406315",
+                "beginDate": "2022-10-22",
+                "orgDep_Name": "МВД по РБ"
+              },
+              {
+                "id": "43987603",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "4414",
+                "number": "764196",
+                "beginDate": "2020-09-02",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Сергей",
+            "lastName": "Иванов",
+            "patrName": "Петрович",
+            "sex": "1"
+          },
+          {
+            "id": 7806362,
+            "birthDate": "2001-02-11",
+            "phoneNumber": "9893600610",
+            "snils": "87478825652",
+            "inn": "684580979070",
+            "socStatus_id": "133",
+            "socStatusFed_Code": "6",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "71333396",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Ленина, д. 82",
+              "guid": "427265-GUID"
+            },
+            "Documents": [
+              {
+                "id": "61519862",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "6780",
+                "number": "698375",
+                "beginDate": "2023-08-28",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Петр",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          },
+          {
+            "id": 8288803,
+            "birthDate": "1997-12-15",
+            "phoneNumber": "9504355960",
+            "snils": "51140360844",
+            "inn": "233030376623",
+            "socStatus_id": "130",
+            "socStatusFed_Code": "6",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "46508799",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Пушкина, д. 31",
+              "guid": "742872-GUID"
+            },
+            "Documents": [
+              {
+                "id": "13696736",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "2824",
+                "number": "845165",
+                "beginDate": "2019-10-10",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "29575196",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "7455",
+                "number": "363721",
+                "beginDate": "2024-10-23",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "lastName": "Иванов",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          },
+          {
+            "id": 2839900,
+            "birthDate": "1993-03-15",
+            "phoneNumber": "9785766313",
+            "snils": "81809115225",
+            "inn": "389240528071",
+            "socStatus_id": "189",
+            "socStatusFed_Code": "9",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "35055787",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Советская, д. 61",
+              "guid": "745050-GUID"
+            },
+            "Documents": [
+              {
+                "id": "50957276",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "3774",
+                "number": "241490",
+                "beginDate": "2023-06-24",
+                "orgDep_Name": "МВД по РБ"
+              },
+              {
+                "id": "85625264",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "4737",
+                "number": "998349",
+                "beginDate": "2023-08-18",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Иван",
+            "lastName": "Сидоров",
+            "patrName": "Иванович",
+            "sex": "2"
+          }
+        ]
+      },
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 9957328,
+            "birthDate": "1977-01-08",
+            "phoneNumber": "9458385314",
+            "snils": "30256597245",
+            "inn": "963655140821",
+            "socStatus_id": "174",
+            "socStatusFed_Code": "1",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "33787358",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Советская, д. 20",
+              "guid": "517941-GUID"
+            },
+            "Documents": [
+              {
+                "id": "71274052",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "3588",
+                "number": "656394",
+                "beginDate": "2021-03-24",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "sex": "1",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          },
+          {
+            "id": 1320951,
+            "birthDate": "1979-12-14",
+            "phoneNumber": "9385225420",
+            "snils": "48474987591",
+            "inn": "260769482593",
+            "socStatus_id": "115",
+            "socStatusFed_Code": "4",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "56042480",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Пушкина, д. 23",
+              "guid": "457044-GUID"
+            },
+            "Documents": [
+              {
+                "id": "86692903",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "6106",
+                "number": "693761",
+                "beginDate": "2019-01-03",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Иван",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          },
+          {
+            "id": 8207311,
+            "birthDate": "2002-03-18",
+            "phoneNumber": "9039290433",
+            "snils": "73973222911",
+            "inn": "283455638864",
+            "socStatus_id": "194",
+            "socStatusFed_Code": "1",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "53245628",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Советская, д. 31",
+              "guid": "533097-GUID"
+            },
+            "Documents": [
+              {
+                "id": "95715860",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "7843",
+                "number": "871887",
+                "beginDate": "2021-05-30",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "patrName": "Иванович",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          },
+          {
+            "id": 2986081,
+            "birthDate": "1996-10-30",
+            "phoneNumber": "9160208429",
+            "snils": "87697224604",
+            "inn": "470227730390",
+            "socStatus_id": "111",
+            "socStatusFed_Code": "3",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "43536094",
+              "value": "РОССИЯ, ГОРОД Москва, ул. Советская, д. 3",
+              "guid": "307796-GUID"
+            },
+            "Documents": [
+              {
+                "id": "21128450",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "7179",
+                "number": "442467",
+                "beginDate": "2023-05-10",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "lastName": "Иванов",
+            "patrName": "Петрович",
+            "sex": "2",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          },
+          {
+            "id": 6502488,
+            "birthDate": "1986-08-11",
+            "phoneNumber": "9754771741",
+            "snils": "63589433662",
+            "inn": "347332287207",
+            "socStatus_id": "186",
+            "socStatusFed_Code": "5",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "59628596",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Ленина, д. 29",
+              "guid": "783456-GUID"
+            },
+            "Documents": [
+              {
+                "id": "88908193",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "3159",
+                "number": "167168",
+                "beginDate": "2017-07-22",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "firstName": "Сергей",
+            "lastName": "Сидоров",
+            "patrName": "Петрович",
+            "sex": "2",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          }
+        ]
+      },
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 9833634,
+            "birthDate": "1989-02-27",
+            "phoneNumber": "9656193378",
+            "snils": "30948237677",
+            "inn": "997740694082",
+            "socStatus_id": "141",
+            "socStatusFed_Code": "6",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "91112456",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Ленина, д. 19",
+              "guid": "276044-GUID"
+            },
+            "Documents": [
+              {
+                "id": "40376398",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "7911",
+                "number": "386904",
+                "beginDate": "2025-02-21",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "lastName": "Петров",
+            "patrName": "Иванович",
+            "sex": "2",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          }
+        ]
+      },
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 2502292,
+            "birthDate": "2001-10-04",
+            "phoneNumber": "9548441067",
+            "snils": "25625568063",
+            "inn": "833409294623",
+            "socStatus_id": "190",
+            "socStatusFed_Code": "1",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "73672643",
+              "value": "РОССИЯ, ГОРОД Москва, ул. Советская, д. 50",
+              "guid": "582304-GUID"
+            },
+            "Documents": [
+              {
+                "id": "59587420",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "1865",
+                "number": "893786",
+                "beginDate": "2022-01-28",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "firstName": "Сергей",
+            "lastName": "Петров",
+            "patrName": "Петрович"
+          },
+          {
+            "id": 6661455,
+            "birthDate": "1973-06-23",
+            "phoneNumber": "9717097922",
+            "snils": "31245716491",
+            "inn": "865901292077",
+            "socStatus_id": "181",
+            "socStatusFed_Code": "5",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "36568060",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Советская, д. 69",
+              "guid": "218875-GUID"
+            },
+            "Documents": [
+              {
+                "id": "29998794",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "7418",
+                "number": "336365",
+                "beginDate": "2025-03-12",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Петр",
+            "lastName": "Сидоров",
+            "patrName": "Петрович",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          },
+          {
+            "id": 3742181,
+            "birthDate": "1974-07-20",
+            "phoneNumber": "9374057634",
+            "snils": "94836096639",
+            "inn": "174744818363",
+            "socStatus_id": "117",
+            "socStatusFed_Code": "8",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "69884750",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Пушкина, д. 57",
+              "guid": "140614-GUID"
+            },
+            "Documents": [
+              {
+                "id": "35403578",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "5880",
+                "number": "651249",
+                "beginDate": "2020-08-15",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "34064466",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "1593",
+                "number": "291024",
+                "beginDate": "2022-12-18",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "83045329",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "7309",
+                "number": "625494",
+                "beginDate": "2015-10-06",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "lastName": "Иванов"
+          },
+          {
+            "id": 8430402,
+            "birthDate": "1990-12-31",
+            "phoneNumber": "9927624536",
+            "snils": "88216367031",
+            "inn": "709604791278",
+            "socStatus_id": "138",
+            "socStatusFed_Code": "4",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "33225593",
+              "value": "РОССИЯ, ГОРОД Москва, ул. Советская, д. 69",
+              "guid": "930397-GUID"
+            },
+            "Documents": [
+              {
+                "id": "89479517",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "3148",
+                "number": "581745",
+                "beginDate": "2024-08-21",
+                "orgDep_Name": "МВД по РБ"
+              },
+              {
+                "id": "39450936",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "1167",
+                "number": "967413",
+                "beginDate": "2016-07-16",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Сергей",
+            "patrName": "Иванович",
+            "sex": "2",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19308396,
+    "referralGUID": "2477183:GUID",
+    "referralDate": "2024-07-12 00:00:00",
+    "Data": [
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 6985166,
+            "birthDate": "1988-09-29",
+            "phoneNumber": "9964713418",
+            "snils": "15043205748",
+            "inn": "972717625370",
+            "socStatus_id": "192",
+            "socStatusFed_Code": "3",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "70037979",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Ленина, д. 95",
+              "guid": "774184-GUID"
+            },
+            "Documents": [
+              {
+                "id": "85629316",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "4883",
+                "number": "135297",
+                "beginDate": "2023-03-07",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Сергей"
+          },
+          {
+            "id": 4390340,
+            "birthDate": "1977-04-11",
+            "phoneNumber": "9959781903",
+            "snils": "35116108927",
+            "inn": "928173454632",
+            "socStatus_id": "163",
+            "socStatusFed_Code": "2",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "83328642",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Пушкина, д. 83",
+              "guid": "290440-GUID"
+            },
+            "Documents": [
+              {
+                "id": "45645983",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "8681",
+                "number": "436125",
+                "beginDate": "2016-01-13",
+                "orgDep_Name": "МВД по РБ"
+              },
+              {
+                "id": "73788873",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "8353",
+                "number": "101631",
+                "beginDate": "2022-04-27",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Петр",
+            "lastName": "Петров",
+            "sex": "1",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          },
+          {
+            "id": 3643347,
+            "birthDate": "2002-05-31",
+            "phoneNumber": "9828750789",
+            "snils": "69125977352",
+            "inn": "966477338335",
+            "socStatus_id": "162",
+            "socStatusFed_Code": "2",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "70969524",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Пушкина, д. 60",
+              "guid": "695924-GUID"
+            },
+            "Documents": [
+              {
+                "id": "65508659",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "3303",
+                "number": "235718",
+                "beginDate": "2022-09-12",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "62350310",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "3608",
+                "number": "199160",
+                "beginDate": "2015-05-19",
+                "orgDep_Name": "МВД по РБ"
+              },
+              {
+                "id": "21734836",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "3176",
+                "number": "981140",
+                "beginDate": "2023-05-26",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "sex": "2"
+          }
+        ]
+      },
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 5937924,
+            "birthDate": "2009-10-28",
+            "phoneNumber": "9674145621",
+            "snils": "66198291212",
+            "inn": "870147167612",
+            "socStatus_id": "116",
+            "socStatusFed_Code": "3",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "10918079",
+              "value": "РОССИЯ, ГОРОД Казань, ул. Пушкина, д. 63",
+              "guid": "917159-GUID"
+            },
+            "Documents": [
+              {
+                "id": "49811438",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "3620",
+                "number": "275879",
+                "beginDate": "2017-12-22",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Сергей",
+            "lastName": "Сидоров",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          },
+          {
+            "id": 3130979,
+            "birthDate": "1996-04-16",
+            "phoneNumber": "9812715886",
+            "snils": "98843901522",
+            "inn": "157612432913",
+            "socStatus_id": "186",
+            "socStatusFed_Code": "2",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "96994405",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Советская, д. 18",
+              "guid": "942774-GUID"
+            },
+            "Documents": [
+              {
+                "id": "60121045",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "3895",
+                "number": "424772",
+                "beginDate": "2024-08-02",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ]
+          },
+          {
+            "id": 6434626,
+            "birthDate": "1970-03-19",
+            "phoneNumber": "9823916566",
+            "snils": "11898378803",
+            "inn": "233731145990",
+            "socStatus_id": "179",
+            "socStatusFed_Code": "5",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "25065273",
+              "value": "РОССИЯ, ГОРОД Москва, ул. Пушкина, д. 77",
+              "guid": "549509-GUID"
+            },
+            "Documents": [
+              {
+                "id": "44199797",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "7801",
+                "number": "183625",
+                "beginDate": "2024-10-12",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Петр",
+            "patrName": "Петрович",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          }
+        ]
+      },
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 9007726,
+            "birthDate": "1984-06-17",
+            "phoneNumber": "9538345701",
+            "snils": "55216686062",
+            "inn": "349746560657",
+            "socStatus_id": "165",
+            "socStatusFed_Code": "1",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "57956535",
+              "value": "РОССИЯ, ГОРОД Москва, ул. Ленина, д. 55",
+              "guid": "542483-GUID"
+            },
+            "Documents": [
+              {
+                "id": "90975594",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "5969",
+                "number": "827084",
+                "beginDate": "2015-09-23",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "36240502",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "2816",
+                "number": "303764",
+                "beginDate": "2022-08-17",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "lastName": "Сидоров",
+            "patrName": "Петрович",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          }
+        ]
+      },
+      {
+        "Sender": {
+          "Organization": {
+            "oid": "1.2.5.23.543.1234.18972",
+            "fullName": "СП.АРМ"
+          }
+        },
+        "Users": [
+          {
+            "id": 8413346,
+            "birthDate": "2008-11-28",
+            "phoneNumber": "9455000574",
+            "snils": "40189081997",
+            "inn": "912509309084",
+            "socStatus_id": "167",
+            "socStatusFed_Code": "3",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "14984330",
+              "value": "РОССИЯ, ГОРОД Москва, ул. Пушкина, д. 76",
+              "guid": "165882-GUID"
+            },
+            "Documents": [
+              {
+                "id": "26162786",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "9220",
+                "number": "676800",
+                "beginDate": "2023-09-14",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "79532248",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "9236",
+                "number": "367685",
+                "beginDate": "2021-09-06",
+                "orgDep_Name": "МВД по РБ"
+              },
+              {
+                "id": "82007098",
+                "documentType_id": "1",
+                "documentType_Name": "Полис ОМС",
+                "series": "1060",
+                "number": "809895",
+                "beginDate": "2016-09-07",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Петр",
+            "patrName": "Иванович",
+            "sex": "2",
+            "Credentials": {
+              "username": "login",
+              "pass": "pwd"
+            }
+          },
+          {
+            "id": 2542175,
+            "birthDate": "2000-06-29",
+            "phoneNumber": "9229287903",
+            "snils": "96066234575",
+            "inn": "221174259380",
+            "socStatus_id": "175",
+            "socStatusFed_Code": "8",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "21723040",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Советская, д. 88",
+              "guid": "679304-GUID"
+            },
+            "Documents": [
+              {
+                "id": "16658659",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "2452",
+                "number": "542870",
+                "beginDate": "2018-04-27",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "33704178",
+                "documentType_id": "2",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "5212",
+                "number": "231611",
+                "beginDate": "2020-11-20",
+                "orgDep_Name": "МВД по РБ"
+              }
+            ],
+            "firstName": "Иван",
+            "patrName": "Иванович"
+          },
+          {
+            "id": 6919401,
+            "birthDate": "1976-01-13",
+            "phoneNumber": "9438518868",
+            "snils": "74176177240",
+            "inn": "475987277185",
+            "socStatus_id": "123",
+            "socStatusFed_Code": "10",
+            "deputyOrg_id": "0",
+            "Address": {
+              "id": "81323340",
+              "value": "РОССИЯ, ГОРОД Уфа, ул. Ленина, д. 88",
+              "guid": "419007-GUID"
+            },
+            "Documents": [
+              {
+                "id": "21799082",
+                "documentType_id": "1",
+                "documentType_Name": "Паспорт гражданина РФ",
+                "series": "1896",
+                "number": "191839",
+                "beginDate": "2016-04-12",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "21915138",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "7715",
+                "number": "801802",
+                "beginDate": "2019-08-31",
+                "orgDep_Name": "РЕСО МЕД"
+              },
+              {
+                "id": "72627498",
+                "documentType_id": "2",
+                "documentType_Name": "Полис ОМС",
+                "series": "5192",
+                "number": "457619",
+                "beginDate": "2016-02-13",
+                "orgDep_Name": "РЕСО МЕД"
+              }
+            ],
+            "firstName": "Сергей"
+          }
+        ]
+      }
+    ]
+  }
+]
