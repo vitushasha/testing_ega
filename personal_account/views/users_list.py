@@ -5,6 +5,7 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 
 from personal_account.models import Users, Document
+from personal_account.utils.get_params import get_param
 from personal_account.utils.helpers import get_valid_data, parse_users_data_from_request, get_users_credentials
 
 from logger import logger
@@ -24,11 +25,11 @@ class IsAdministrator(BasePermission):
 class UsersApiView(APIView):
     permission_classes = (IsAdministrator,)
 
+    @get_param('users', list)
     def get(self, request, format=None):
         users = Users.objects.all()
-        params = request.query_params.get('users')
-        if params:
-            usernames = [username for username in params.strip(' []').split(',')]
+        if request.data.get('users'):
+            usernames = request.data.get('users')
             users = users.filter(login__in=usernames, deleted=False)
         if users.exists():
             serializer = UserSerializer(users, many=True)
